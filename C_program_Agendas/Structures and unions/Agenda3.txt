@@ -1,0 +1,10 @@
+
+
+Agenda :
+
+
+1.What is Union ? 
+
+2.Syntax of union ?
+
+3.Union (vs) structures ?

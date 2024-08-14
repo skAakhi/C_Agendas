@@ -1,0 +1,14 @@
+
+
+Agenda :
+
+
+1.Program to print transpose of matrix of 2D-array ?
+
+2.program to print sum of individual rows and columns of matrix using 2D-array ?
+
+3.How to add two matrix of 2D-array ?
+
+4.Matrix multiplication of 2D-array ?
+
+5.Various task assigning of 2D-arrays ?

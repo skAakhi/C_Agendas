@@ -1,0 +1,16 @@
+
+
+Agenda :
+
+
+1.What is pointer ?
+
+2.Why do we use pointers and its applications  ?
+
+3.What is purpose of addressof (&) operator and indirection operator (*) operator ?
+
+4.Types of pointers ?
+
+5.Syntax of single pointers ?
+
+6.Operations with single pointer ? with example ?

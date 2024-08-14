@@ -1,0 +1,21 @@
+
+
+Agenda :
+
+1.What is Dynamic memory allocation ? Why ? applications ?
+
+2.Types of functions in DMA ? 
+
+3.What is malloc() function ? Syntax ?
+
+4.What is default value of malloc() function ? Importing from which library ?
+
+5.preforming operations with malloc() function ?
+
+6.What is calloc() function ? Syntax ?
+
+7.What is default value of calloc() function ? Importing from which library ?
+
+8.preforming operations with calloc() function ?
+
+9. malloc()  (vs) calloc() functions ?

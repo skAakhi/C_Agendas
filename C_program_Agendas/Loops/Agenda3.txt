@@ -1,0 +1,9 @@
+Agenda :
+
+1.Why do we use do_while loop ?
+
+2.Syntax of do_while loop ?
+
+3.Is my do_while loop is entry control loop (or) exit control loop ?
+
+4.Various operations with do_while loop ? with examples ?

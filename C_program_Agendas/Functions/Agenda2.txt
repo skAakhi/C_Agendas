@@ -1,0 +1,11 @@
+
+
+Agenda :
+
+1.What is call by value ? how does it works ?
+
+2.What is call by reference ? how does it works ?
+
+3.What is call back functions ? how does it works ?
+
+4.Assigning various tasks with functions ?

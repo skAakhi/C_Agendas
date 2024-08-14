@@ -1,0 +1,17 @@
+
+
+Agenda :
+
+1. What is programming paradigms ?
+
+2.Types of programming paradigms ?
+
+3.(a) Monolithic programming with example code ?
+
+  (b) Modular/procedural programming with example code ?
+  
+  (c) Object oriented programming ?
+
+4.What is purpose of libraries in my programming & purpose of it with example ?
+
+

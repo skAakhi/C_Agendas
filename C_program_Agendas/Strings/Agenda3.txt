@@ -1,0 +1,13 @@
+
+
+Agenda :
+
+
+1.Reverse a string using strrev() function ? without function ?
+
+2.String to convert from uppercase to lowercase using strlwr() function ? without function ?
+
+3.String to convert from  lowercase to uppercase using strupr() function ? without function ?
+
+4.Comparing of two strings using  strcpy() function ? without function ?
+ 

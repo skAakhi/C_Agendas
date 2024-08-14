@@ -1,0 +1,17 @@
+
+
+Agenda :
+
+
+1.What is arrays of structure ? Why ? purpose ? applications ?
+
+2.Syntax of arrays of structure ?
+
+3.Implementation of arrays of structure ?
+
+4.What is pointer to structure ? Why ? purpose ? applications?
+
+5.Implementation of pointer to structure ?
+
+6.Understanding concept of structure padding and packing ?
+

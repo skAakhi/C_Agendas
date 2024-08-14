@@ -1,0 +1,19 @@
+
+
+Agenda :
+
+1.What is switch_case statement in C program ?
+
+2.Syntax of switch_case statement ?
+
+3.Break is optional or not ?
+
+4.Default is optional or not ?
+
+5.case is optional or not ?
+
+6.Statement is optional or not ?
+
+7.Various tasks with switch_case statement ? with example ?
+
+8.Calculator program ?

@@ -1,0 +1,13 @@
+
+
+Agenda :
+
+1.What is operator and operand ?
+
+2.Classifications of operator's ?
+
+3.All operations with unary operators and with example ?
+
+4.All operations with binary operators and with example ?
+
+5.All operations with tarenary operators and with example ?

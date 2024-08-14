@@ -1,0 +1,15 @@
+
+
+Agenda :
+
+1.What is formated input functions ?
+
+2.How to take input from the User using Scanf function ?
+
+3.What is formatted output functions ?
+
+4.How to print data using printf function ?
+
+5.Basic common errors in input and output functions ?
+
+6.Various tasks with input and output functions ?

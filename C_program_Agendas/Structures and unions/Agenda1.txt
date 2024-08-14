@@ -1,0 +1,18 @@
+
+
+Agenda :
+
+
+1.What is structures ?
+
+2.What is purpose of structure and its applications  ?
+
+3.Syntax of structure ?
+
+4.Declaration and initialization of structure ?
+
+5.How to create object for structure ?
+
+6.What are the multiple ways of creating object ?
+
+7.preforming various tasks with my structure ?

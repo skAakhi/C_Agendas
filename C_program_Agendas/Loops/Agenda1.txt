@@ -1,0 +1,18 @@
+
+
+Agenda :
+
+
+1.What is loops ?
+
+2.What do we need loops and its applications ?
+
+3.What is different types of loops ?
+
+4.Syntax of for loops ?
+
+5.Various operations with for loops ? with example ?
+
+6.properties of for loops ?
+
+7.Print table_number using for loop ?

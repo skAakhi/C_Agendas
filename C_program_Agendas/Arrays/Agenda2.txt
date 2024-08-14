@@ -1,0 +1,20 @@
+
+
+Agenda :
+
+
+1.What is Arrays and its purpose ?
+
+2.What is applications of arrays ? Types of arrays ?
+
+3.Syntax of 2D-array ?
+
+4.Declaration of 2D-array ?
+
+5.Initialization with 2D-array ?
+
+6.Memory representation of 2D-array ?
+
+7.performing various tasks with 2D-arrays ?
+
+8.programming to print matrix and calculate sum ?

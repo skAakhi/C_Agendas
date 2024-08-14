@@ -1,0 +1,207 @@
+C Language Syllabus
+
+Introduction and First Program 
+==============================================================================================
+
+Why Programming 
+
+History of C Language 
+
+Hello World Program 
+
+--------------------------------------------------------------------------------------------------
+
+Variables and Data types
+===================================================================================================
+Identifiers in C 
+
+Variables and DataTypes 
+
+Constants 
+
+----------------------------------------------------------------------------------------------------
+Console IO Operations 
+====================================================================================================
+Printf and Scanf 
+
+Unformatted IO Functions 
+
+Operators and Expressions 
+=======================================================================================================
+Expressions and Arithmetic Operators 
+
+Relational and Logical Operators 
+
+Bitwise Operators 
+
+Control Flow Statements 
+=======================================================================================================
+If Statement 
+
+Switch Statement 
+
+Unconditional Branching using goto statement 
+
+While Loop 63 
+
+Do While Loop 
+
+For Loop 
+
+Break and Continue 
+
+Special Cases 
+
+Working with Functions 
+===============================================================================================================
+Introduction and Writing Functions 
+
+Scope of Variables,Storage Classes,Pass by Value and reference 
+
+Recursion 
+
+Working with Arrays 
+=================================================================================================================
+Arrays Declaration and Initialization 
+
+Sample Programs using Arrays 
+
+Arrays as Function Parameters 
+
+2-Dimensional Array 
+
+Pointers 
+===================================================================================================================
+Introduction to Pointers
+
+Pointers as Function Parameter 
+
+Pointer Arithmetic 
+
+Pointers and Arrays 
+
+Function Pointers 
+
+Dynamic Memory Allocation using malloc 
+
+calloc and comparision with malloc 
+
+String Handling 
+======================================================================================================================
+Introduction to Strings
+
+Sample Program 
+
+More Sample Programs 
+
+Standard String Library Functions 
+
+Array of String 
+
+Structures and Unions 
+======================================================================================================================
+Declaring and Instantiating Structures 
+
+Structure as Parameter and Pointer to Structure 
+
+Enumerated Data Type 
+
+Union 
+
+Bit Fields 
+
+File Handling 
+======================================================================================================================
+What is a Stream 
+
+File Handling-Writing and Reading Characters 
+
+Writing and Reading Structure in Text Format 
+
+Writing and Reading in Binary Format 
+
+Pre-Processor Directives 
+========================================================================================================================
+Understanding Pre-Processor directives 
+
+Header Files and Project 
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Command Line Arguments and Variable
+========================================================================================================================
+Arguments 
+
+Command Line Argument 
+
+Variable Number of Arguments 
+
+Searching and Sorting 
+=========================================================================================================================
+Linear Search 19 mins
+Iterative Binary Search 
+Recursive Binary Search 
+Bubble Sort 
+Selection Sort 
+Insertion Sort 
+Quick Sort 
+Merge Sort 
+
+Stack 
+==========================================================================================================================
+Introduction to Data Structures 
+Stack Using Arrays 
+Stack Using Linked List 
+Infix to Postfix Expressions 
+
+Queue 
+========================================================================================================================
+Queue Using Arrays 
+
+Queue Using Linked List 
+
+Linked List 
+========================================================================================================================
+Introduction to Linked List
+Single Linked List 
+Double Linked List 
+Circular Linked List 
+
+Trees 
+========================================================================================================================
+Introduction to Trees 
+Programming Tree - 1 
+Programming Tree - 2

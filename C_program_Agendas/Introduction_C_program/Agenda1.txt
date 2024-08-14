@@ -1,0 +1,17 @@
+
+Agenda :
+
+1.How computer works ? 
+
+2.What is number system ? 
+
+3.What is programming and why do we use it. ?
+
+4.Understanding of 3-tier architecture ? and where do we use programming language ?
+
+5.Low level (vs) high level language ?
+
+6.Difference between complier (vs) interpreter and Hybrid ?
+
+7.what is operating system, its types and purpose ?
+

@@ -1,0 +1,13 @@
+
+
+Agenda :
+
+1.What is datatype ?
+
+2.classification of data types ?
+
+3.Sizes and ranges of data types ?
+
+4.Difference between Unsigned data type(int /char) and Signed data type(int / char) ?
+
+5. ASCII table understanding associated with char data type ?

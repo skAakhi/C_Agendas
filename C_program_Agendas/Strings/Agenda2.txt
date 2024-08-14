@@ -1,0 +1,11 @@
+
+
+Agenda :
+
+
+1. Finding a length of string using strlen() function ? without function ?
+
+2.Concatenate two strings using strcat() function ? without function ?
+
+3.Comparing two strings with strcmp() function ? without function ?
+

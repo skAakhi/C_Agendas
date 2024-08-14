@@ -1,0 +1,14 @@
+
+Agenda :
+
+1.What is variable ?
+
+2.How we are naming to memory blocks with Example real-world (vs) computer memory ?
+
+3.Naming conventions of variable ?
+
+4.Example programs with different data types using variable to store the information and printing its   repective values ?
+
+5.What is specifier ?
+
+6.Different types of specifiers in input functions and output functions ? why ? with example with that   the respective data types ?

@@ -1,0 +1,19 @@
+
+
+Agenda :
+
+1.What is enumerator ? why ?
+
+2.It is userdefined or predefined ?
+
+3.enum data type in c ?
+
+4.Syntax of enumerator ?
+
+5.What is default values in enum ?
+
+6.What if i dont assign any values to my enum variables in between some variables of enum ?
+
+7.What is default value of enum variables ?
+
+8.Example programs with Enums ?

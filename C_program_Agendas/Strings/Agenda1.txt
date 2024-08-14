@@ -1,0 +1,19 @@
+
+
+Agenda :
+
+1.What is string in C program ?
+
+2.What is purpose of strings and its applications ?
+
+3.Syntax of strings ?
+
+4.Reading a string using scanf() and gets() function ?
+
+5.Printing string using printf() and puts() functions ?
+
+6. scanf()  (vs) gets()  and printf()  (vs) puts() functions ?
+
+7.Different string functions are available in C program ?
+
+8.Do my string acts like pointer or not ? with example ?

@@ -1,0 +1,11 @@
+
+
+Agenda :
+
+1.Arthematic pointers ?
+ 
+  (a) Addition pointers
+
+  (b) Subtraction pointer
+
+2.Increment and decrement pointers ?

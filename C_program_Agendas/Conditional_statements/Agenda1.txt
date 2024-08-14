@@ -1,0 +1,15 @@
+
+
+Agenda :
+
+1.What is control/conditional statements in C program and purpose ?
+
+2.Types of control/conditional statements in C programming ?
+
+3.Syntax of else if-condition and with example ?
+
+4.Various tasks with else if-condition ?
+
+5.Syntax of Nested if condition and with example ?
+
+6.Various tasks with Nested if condition ?

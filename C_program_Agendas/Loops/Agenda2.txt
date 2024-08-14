@@ -1,0 +1,11 @@
+
+
+Agenda :
+
+1.Why do we use while_loop ?
+
+2.Syntax of while_loop ?
+
+3.Is my while_loop is entry control loop (or) exit control loop ?
+
+4.Various operations with while_loop ? with examples ?

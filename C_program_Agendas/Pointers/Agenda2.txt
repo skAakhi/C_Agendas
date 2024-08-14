@@ -1,0 +1,13 @@
+
+
+
+Agenda :
+
+
+1.What is double pointer ?
+
+2.Why do we use double pointers and its applications  ?
+
+3.Syntax of double pointers pointers ?
+
+4.Operations with single pointer ? with example ?

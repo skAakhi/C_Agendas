@@ -1,0 +1,9 @@
+
+
+Agenda :
+
+1.What is macros ?
+
+2.How can we declare pre-defined macros in C program ? How ?
+
+3.What is preprocessor ? how it works in C program ?

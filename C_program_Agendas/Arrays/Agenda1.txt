@@ -1,0 +1,18 @@
+ 
+
+Agenda :
+
+
+1.What is Arrays and its purpose ?
+
+2.What is applications of arrays ? Types of arrays ?
+
+3.Syntax of 1D-array ?
+
+4.Declaration of 1D-array ?
+
+5.Initialization with 1D-array ?
+
+6.Memory representation of 1D-array ?
+
+7.performing various tasks with 1D-arrays ?

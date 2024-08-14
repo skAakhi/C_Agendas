@@ -1,0 +1,11 @@
+
+
+Agenda :
+
+1.What is recursion ? why do we use it ? 
+
+2.What is applications of recursion ?
+
+3.Types of recursions ?
+
+4.performing various tasks with recursion ?

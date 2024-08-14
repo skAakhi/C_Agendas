@@ -1,0 +1,13 @@
+
+
+Agenda :
+
+1.What is realloc() function ? Syntax ?
+
+2.What is default value of realloc() function ? Importing from which library ?
+
+3.preforming operations with realloc() function ?
+
+4.When to use free() function and how to de-allocate memory ?
+
+5.Assigning tasks in DMA concept ?

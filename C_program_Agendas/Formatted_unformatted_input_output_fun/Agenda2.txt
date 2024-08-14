@@ -1,0 +1,11 @@
+
+
+Agenda :
+
+1.What is Un-formatted input functions and Its types ?
+
+2.Comparision of getchar()  (vs) getch()  (vs)  getsche()  (vs)  gets() functions ?
+
+3. What is Un-formatted output functions and its types ?
+
+4.Comparision of putchar()  (vs)  putch()   (vs)  puts() functions ?

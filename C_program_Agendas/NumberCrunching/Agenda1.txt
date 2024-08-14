@@ -1,0 +1,12 @@
+
+
+Agenda :
+
+
+1.What is number crunching ?
+
+2.Number crunching LSB side ?
+
+3.Number crunchimg MSB side ?
+
+4.Performing various tasks with number crunching ?

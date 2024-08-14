@@ -1,0 +1,17 @@
+
+
+Agenda :
+
+1.Features of C programming ?
+
+2.Basic structure of C program ?
+
+3.Execution process of C program ?
+
+4.What is constants in C program ? Its types ?
+
+5 Use of const Keyword in C program ?
+
+6.How many keywords are in C program ?
+
+7.What is identifiers in C program ? Its naming conventions ?

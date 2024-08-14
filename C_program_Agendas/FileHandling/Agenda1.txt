@@ -1,0 +1,16 @@
+
+
+Agenda :
+
+1.What is file handling ?
+
+2.What is purpose of file handling and its applications ?
+
+3.Syntax of file handling ?
+
+4.What are different modes available in C program ? How do we use it ?
+
+5.What are different functions available in C program ? How do we use it ?
+
+6.Example program with file handling ?
+

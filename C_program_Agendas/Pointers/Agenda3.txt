@@ -1,0 +1,15 @@
+
+
+Agenda :
+
+
+1.What is void pointer ? Where do we use it ?
+
+2.purpose of void pointer ? its applications ?
+
+3.what is  NULL pointer ?
+
+4.purpose of NULL pointer ? Where do we use it ?
+
+5.Syntax and operations with NULL pointer ?
+
